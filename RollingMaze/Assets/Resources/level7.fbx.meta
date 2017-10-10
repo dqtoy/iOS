@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: a13c8150978084d45a4771043f05121d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ground
+    100002: invisible_wall
+    100004: //RootNode
+    100006: outerWall
+    100008: outerWall1
+    100010: outerWall10
+    100012: outerWall11
+    100014: outerWall12
+    100016: outerWall2
+    100018: outerWall3
+    100020: outerWall4
+    100022: outerWall5
+    100024: outerWall6
+    100026: outerWall7
+    100028: outerWall8
+    100030: outerWall9
+    400000: ground
+    400002: invisible_wall
+    400004: //RootNode
+    400006: outerWall
+    400008: outerWall1
+    400010: outerWall10
+    400012: outerWall11
+    400014: outerWall12
+    400016: outerWall2
+    400018: outerWall3
+    400020: outerWall4
+    400022: outerWall5
+    400024: outerWall6
+    400026: outerWall7
+    400028: outerWall8
+    400030: outerWall9
+    2300000: ground
+    2300002: invisible_wall
+    2300004: outerWall
+    2300006: outerWall1
+    2300008: outerWall10
+    2300010: outerWall11
+    2300012: outerWall12
+    2300014: outerWall2
+    2300016: outerWall3
+    2300018: outerWall4
+    2300020: outerWall5
+    2300022: outerWall6
+    2300024: outerWall7
+    2300026: outerWall8
+    2300028: outerWall9
+    3300000: ground
+    3300002: invisible_wall
+    3300004: outerWall
+    3300006: outerWall1
+    3300008: outerWall10
+    3300010: outerWall11
+    3300012: outerWall12
+    3300014: outerWall2
+    3300016: outerWall3
+    3300018: outerWall4
+    3300020: outerWall5
+    3300022: outerWall6
+    3300024: outerWall7
+    3300026: outerWall8
+    3300028: outerWall9
+    4300000: ground
+    4300002: outerWall
+    4300004: outerWall1
+    4300006: outerWall2
+    4300008: outerWall3
+    4300010: outerWall4
+    4300012: outerWall5
+    4300014: outerWall6
+    4300016: outerWall7
+    4300018: outerWall8
+    4300020: outerWall9
+    4300022: outerWall10
+    4300024: outerWall11
+    4300026: outerWall12
+    4300028: invisible_wall
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

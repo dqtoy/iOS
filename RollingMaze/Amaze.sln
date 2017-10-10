@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{F62B74F6-32CD-532D-3750-339F758726AF}") = "Amaze", "Assembly-CSharp.csproj", "{03EFB937-BA75-B005-221D-2144549E445B}"
+EndProject
+Project("{F62B74F6-32CD-532D-3750-339F758726AF}") = "Amaze", "Assembly-UnityScript.unityproj", "{4D83B268-0953-06A3-C183-AA5AB27E8E92}"
+EndProject
+Project("{F62B74F6-32CD-532D-3750-339F758726AF}") = "Amaze", "Assembly-UnityScript-Editor.unityproj", "{8C3929AB-235A-F0F0-3A9F-B7FAD84C2732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EFB937-BA75-B005-221D-2144549E445B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EFB937-BA75-B005-221D-2144549E445B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EFB937-BA75-B005-221D-2144549E445B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EFB937-BA75-B005-221D-2144549E445B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D83B268-0953-06A3-C183-AA5AB27E8E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D83B268-0953-06A3-C183-AA5AB27E8E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D83B268-0953-06A3-C183-AA5AB27E8E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D83B268-0953-06A3-C183-AA5AB27E8E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3929AB-235A-F0F0-3A9F-B7FAD84C2732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3929AB-235A-F0F0-3A9F-B7FAD84C2732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3929AB-235A-F0F0-3A9F-B7FAD84C2732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3929AB-235A-F0F0-3A9F-B7FAD84C2732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

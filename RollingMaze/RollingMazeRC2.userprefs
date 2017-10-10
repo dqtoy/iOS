@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StartButtons.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Level.cs" Line="64" Column="31" />
+      <File FileName="Assets/Scripts/StartButtons.cs" Line="31" Column="35" />
+      <File FileName="Assets/Scripts/Help1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextureCollection.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopControl.cs" Line="35" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

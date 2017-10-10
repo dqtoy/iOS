@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: e9bad2f250121447f96e1a5f0799efbd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cow 1
+    100004: cowBones
+    100006: joint1
+    100008: joint11
+    100010: joint12
+    100012: joint13
+    100014: joint14
+    100016: joint15
+    100018: joint16
+    100020: joint17
+    100022: joint2
+    100024: joint3
+    100026: joint4
+    100028: joint5
+    100030: joint6
+    100032: joint7
+    100034: joint7 1
+    100036: joint8
+    100038: joint8 1
+    100040: joint9
+    400000: //RootNode
+    400002: cow 1
+    400004: cowBones
+    400006: joint1
+    400008: joint11
+    400010: joint12
+    400012: joint13
+    400014: joint14
+    400016: joint15
+    400018: joint16
+    400020: joint17
+    400022: joint2
+    400024: joint3
+    400026: joint4
+    400028: joint5
+    400030: joint6
+    400032: joint7
+    400034: joint7 1
+    400036: joint8
+    400038: joint8 1
+    400040: joint9
+    4300000: cow
+    7400000: cow_eating
+    7400002: cow_death
+    9500000: //RootNode
+    13700000: cow 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cow_eating
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cow 1
+        weight: 1
+      - path: cowBones
+        weight: 1
+      - path: cowBones/joint11
+        weight: 1
+      - path: cowBones/joint11/joint1
+        weight: 1
+      - path: cowBones/joint11/joint1/joint2
+        weight: 1
+      - path: cowBones/joint11/joint3
+        weight: 1
+      - path: cowBones/joint11/joint3/joint4
+        weight: 1
+      - path: cowBones/joint11/joint3/joint4/joint5
+        weight: 1
+      - path: cowBones/joint11/joint6
+        weight: 1
+      - path: cowBones/joint11/joint6/joint7
+        weight: 1
+      - path: cowBones/joint11/joint6/joint7/joint8
+        weight: 1
+      - path: cowBones/joint11/joint9
+        weight: 1
+      - path: cowBones/joint11/joint9/joint7 1
+        weight: 1
+      - path: cowBones/joint11/joint9/joint7 1/joint8 1
+        weight: 1
+      - path: cowBones/joint11/joint12
+        weight: 1
+      - path: cowBones/joint11/joint12/joint13
+        weight: 1
+      - path: cowBones/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: cowBones/joint11/joint15
+        weight: 1
+      - path: cowBones/joint11/joint15/joint16
+        weight: 1
+      - path: cowBones/joint11/joint15/joint16/joint17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: cow_death
+      takeName: Take 001
+      firstFrame: 13
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cow 1
+        weight: 1
+      - path: cowBones
+        weight: 1
+      - path: cowBones/joint11
+        weight: 1
+      - path: cowBones/joint11/joint1
+        weight: 1
+      - path: cowBones/joint11/joint1/joint2
+        weight: 1
+      - path: cowBones/joint11/joint3
+        weight: 1
+      - path: cowBones/joint11/joint3/joint4
+        weight: 1
+      - path: cowBones/joint11/joint3/joint4/joint5
+        weight: 1
+      - path: cowBones/joint11/joint6
+        weight: 1
+      - path: cowBones/joint11/joint6/joint7
+        weight: 1
+      - path: cowBones/joint11/joint6/joint7/joint8
+        weight: 1
+      - path: cowBones/joint11/joint9
+        weight: 1
+      - path: cowBones/joint11/joint9/joint7 1
+        weight: 1
+      - path: cowBones/joint11/joint9/joint7 1/joint8 1
+        weight: 1
+      - path: cowBones/joint11/joint12
+        weight: 1
+      - path: cowBones/joint11/joint12/joint13
+        weight: 1
+      - path: cowBones/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: cowBones/joint11/joint15
+        weight: 1
+      - path: cowBones/joint11/joint15/joint16
+        weight: 1
+      - path: cowBones/joint11/joint15/joint16/joint17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 10c8d337d08e14c6b9e471ebc4c859b0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: text_gameover
+    100002: text_go
+    100004: text_greatJob
+    100006: text_hotness
+    100008: text_incredible
+    100010: text_levelup
+    100012: //RootNode
+    100014: text_omg
+    100016: text_speechless
+    100018: text_stunning
+    100020: text_unbelievable
+    400000: text_gameover
+    400002: text_go
+    400004: text_greatJob
+    400006: text_hotness
+    400008: text_incredible
+    400010: text_levelup
+    400012: //RootNode
+    400014: text_omg
+    400016: text_speechless
+    400018: text_stunning
+    400020: text_unbelievable
+    2300000: text_gameover
+    2300002: text_go
+    2300004: text_greatJob
+    2300006: text_hotness
+    2300008: text_incredible
+    2300010: text_levelup
+    2300012: text_omg
+    2300014: text_speechless
+    2300016: text_stunning
+    2300018: text_unbelievable
+    3300000: text_gameover
+    3300002: text_go
+    3300004: text_greatJob
+    3300006: text_hotness
+    3300008: text_incredible
+    3300010: text_levelup
+    3300012: text_omg
+    3300014: text_speechless
+    3300016: text_stunning
+    3300018: text_unbelievable
+    4300000: planarTrimmedSurface1
+    4300002: text_speechless
+    4300004: text_greatJob
+    4300006: text_unbelievable
+    4300008: text_incredible
+    4300010: text_hotness
+    4300012: text_omg
+    4300014: text_stunning
+    4300016: text_gameover
+    4300018: text_levelup
+    4300020: text_go
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

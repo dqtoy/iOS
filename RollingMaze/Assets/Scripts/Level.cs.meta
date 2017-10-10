@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 508f1b8ecdff84e2bbe0a5d782f57708
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Item: {fileID: 400000, guid: 7a428bad2c1714f59af764c7c61c0aba, type: 2}
+  - Ball: {fileID: 400000, guid: fa419071f0f984c93a148a180a901ce6, type: 2}
+  - ShadowPlane: {fileID: 400000, guid: 22ce14b47175145bfb3041d313038775, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
